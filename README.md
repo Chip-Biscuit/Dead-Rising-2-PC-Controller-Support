@@ -10,6 +10,8 @@ Reverse Engineering • Programming • Patching • Game Improvements • DLL C
 
 </div>
 
+# Dead Rising 2 PC Controler Fix 
+
 # Information
 This is a library I have been working on for some time now to add x-input support into games with broken or missing controller support.
 
