@@ -58,8 +58,3 @@ Brought to you by Fix Enhancers - https://fixenhancers.wixsite.com/fix-enhancers
 
 # Roman Nikolaev
 - Role (Moderator, Tester)
-
-<br>
-
-# Roman Nikolaev
-- Role (Moderator, Tester)
