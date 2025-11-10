@@ -17,6 +17,11 @@ This is a library I have been working on for some time now to add x-input suppor
 
 # Installation 
 Go to the bottom of the page download DeadRising2Controller.zip unzip it and put the contents into your games install location next to deadrising2.exe. in d3d9.ini you can fully customise the inputs its all explained in the INI you can also use [hotkey]keycodes.txt provided in the fix to help you. 
+# Layout 
+
+<img width="870" height="665" alt="Dead_Rising_2_Xbox_Controller_Layout_Image" src="https://github.com/user-attachments/assets/ec92a71f-89f4-428a-bf43-e1441d221080" />
+<br>
+<img width="1141" height="1704" alt="Dead_Rising_2_Xbox_Controller_Layout" src="https://github.com/user-attachments/assets/bb6e9f94-2738-49e4-aff5-c32b69f2c0ad" />
 
 # Issues
 If you have any issues please go to discord for help 
