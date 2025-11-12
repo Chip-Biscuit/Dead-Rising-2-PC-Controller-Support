@@ -24,8 +24,6 @@ Instructions:
     Put d3d9.dll & d3d9.ini files in the directory of the game (next to deadrising2.exe)
 
 
-For deep customization check both d3d9.ini and [hotkey]keycodes.txt files inside the archive.
-
 # Custom Controller Layout 
 
 <img width="870" height="665" alt="Dead_Rising_2_Xbox_Controller_Layout_Image" src="https://github.com/user-attachments/assets/ec92a71f-89f4-428a-bf43-e1441d221080" />
