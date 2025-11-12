@@ -21,7 +21,7 @@ Go to releases download DeadRising2Controller.zip unzip it and put the contents 
 Instructions:
 - Put d3d9.dll & d3d9.ini files in the directory of the game (next to deadrising2.exe)
 - In Steam (if steam version is used)
-- Pick the game Dead Rising 2
+- Pick the game Dead Rising 2 off the record
 - Press the cog button on the right
 - Chose "properties".
 - Go into "controller" tab
