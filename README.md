@@ -64,8 +64,6 @@ https://discord.gg/eVJ7sQH7Cc
 # Credits
 Credit to Elisha Riedlinger for the base wrapper and 13 AG.
 
-Brought to you by Fix Enhancers - https://fixenhancers.wixsite.com/fix-enhancers
-
 ---
 
 ### Fix Enhancers  
