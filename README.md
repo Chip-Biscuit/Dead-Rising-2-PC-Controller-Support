@@ -8,7 +8,7 @@
 
 Reverse Engineering • Programming • Patching • Game Improvements • DLL Creation 
 
-![Downloads](https://img.shields.io/github/downloads/Chip-Biscuit/Dead-Rising-2-PC-Controller-Support/total) 
+[![Downloads](https://img.shields.io/github/downloads/Chip-Biscuit/Dead-Rising-2-PC-Controller-Support/total?label=Total%20Downloads)](https://github.com/Chip-Biscuit/Dead-Rising-2-PC-Controller-Support/releases)
 
 <sub>click the Total Downloads button above to take you to the releases page and download the zip at the bottom</sub>
 
